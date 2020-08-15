@@ -1,0 +1,15 @@
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\bin\Debug\netcoreapp3.1\CheapStocksCLI.exe
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\bin\Debug\netcoreapp3.1\CheapStocksCLI.deps.json
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\bin\Debug\netcoreapp3.1\CheapStocksCLI.runtimeconfig.json
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\bin\Debug\netcoreapp3.1\CheapStocksCLI.runtimeconfig.dev.json
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\bin\Debug\netcoreapp3.1\CheapStocksCLI.dll
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\bin\Debug\netcoreapp3.1\CheapStocksCLI.pdb
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\obj\Debug\netcoreapp3.1\CheapStocksCLI.csprojAssemblyReference.cache
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\obj\Debug\netcoreapp3.1\CheapStocksCLI.AssemblyInfoInputs.cache
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\obj\Debug\netcoreapp3.1\CheapStocksCLI.AssemblyInfo.cs
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\obj\Debug\netcoreapp3.1\CheapStocksCLI.dll
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\obj\Debug\netcoreapp3.1\CheapStocksCLI.pdb
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\obj\Debug\netcoreapp3.1\CheapStocksCLI.genruntimeconfig.cache
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\bin\Debug\netcoreapp3.1\LumenWorks.Framework.IO.dll
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\obj\Debug\netcoreapp3.1\CheapStocksCLI.csproj.CoreCompileInputs.cache
+D:\source\C#\CheapStocksCLI\CheapStocksCLI\obj\Debug\netcoreapp3.1\CheapStocksCLI.csproj.CopyComplete
